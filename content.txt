@@ -1,3 +1,5 @@
+PathUtils
+--------------------
 [*]	getPath(String name)				Get file path from it's name.
 [*]	getName(String path)				Get file name from it's path.
 [*]	getBaseName(String path)			Get file name without its' extension.
